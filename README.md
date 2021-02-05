@@ -1,2 +1,2 @@
-# MC_OT
+# MC_RT
  Monte Carlo Ray Tracing
